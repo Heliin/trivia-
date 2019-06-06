@@ -1,0 +1,137 @@
+.disappear{
+display: none;
+};
+
+body¨{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGXE4A_M-zgo2YnnHB41pLC7iaQ7nj333tV-YMm6W-M1bQV4SI");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+*{
+background-color: yellow;
+}
+button {
+  background-color: silver ;
+  border: 1px solid black;
+ font-size:medium;
+}
+p {
+  font-family:Arial;
+  text-transform: uppercase;
+  text-align: center;
+}
+h1{
+  text-align: center;
+ font-size:xx-large;
+}
+p {
+  font-family:-apple-system;
+ color:darkgrey;
+ font-size:medium;
+}
+h1 span{
+ color:azure;
+ }
+ label{
+ font-family:geneva;
+ font-size:larger;
+
+ }.desaparecer {
+display: none;
+}
+body¨{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGXE4A_M-zgo2YnnHB41pLC7iaQ7nj333tV-YMm6W-M1bQV4SI");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.login-box h1{
+margin: 0;
+padding: 0 0 20 px;
+text-aling:center;
+font-size: 2px;
+}
+.login-box label{
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+  display: block;
+}
+.login-box input[type="button"]{
+border: yellow
+outline:none;
+heigth: 50 px;
+background: #fff;
+color: #000;
+font-size: 25 px;
+border-radius: 35 px;
+
+}
+
+:root {
+background: #ecf5ff;
+font-size:  62.5%
+
+}
+
+*{
+ box-sizing: border-box;
+ font-family: Arial, Helvetica, sans-serif
+ margin: 0;
+ padding: 0;
+ color: #333;
+}
+h1
+h2
+h3
+h4{
+  margin-bottom: 1rem;
+}
+h1{
+font-size:  5.4 rem
+color: #56a5eb
+margin-botton:5rem;
+}
+
+h1>span{
+font-size: 2.4 rem;
+margin-bottom: 500;
+  }
+
+h2  {
+font-size:  4.2 rem
+margin-botton:4rem;
+font-weigth: 700;
+}
+h3{
+font-size:  2.8 rem
+font-weigth: 500;
+}
+
+.btn{
+  font-size:1.8 rem;
+  padding: 1rem 0;
+  width: 20 rem;
+  text-align: center;
+  border: 0.1 rem solid #64dbf8
+  margin-bottom: 1rem;
+  text-decoration: none;
+  color: #000;
+  background-color: white;
+  }
+
+.btn{
+cursor:pointer;
+box-shadow: 0 0.4 rem 1.4 rem 0 rgba(86,185,235,0.5);
+transform: translateY(-0.1rem);
+transition: transform 150ms;
+
+}
+
+.btn [disabled].hover{
+ cursor: not-allowed;
+ box-shadow: none;
+ transform: none;
+}
+
+
+     
